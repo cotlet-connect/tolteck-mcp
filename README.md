@@ -143,7 +143,6 @@ Your AI exports quotes, invoices, clients and your library from the screens your
 - [Tolteck MCP server on Cotlet.dev](https://cotlet.dev/integrations/tolteck-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=tolteck&utm_content=find)
 - [Tolteck API with Cotlet](https://cotlet.dev/integrations/api/tolteck?utm_source=github&utm_medium=readme&utm_campaign=tolteck&utm_content=find)
 - [Does Tolteck have an API or MCP server?](https://cotlet.dev/api-mcp-status/tolteck?utm_source=github&utm_medium=readme&utm_campaign=tolteck&utm_content=find)
-- [PyPI package tolteck-mcp](https://pypi.org/project/tolteck-mcp/)
 
 ## More trades and construction apps on Cotlet
 
